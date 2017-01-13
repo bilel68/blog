@@ -1,0 +1,17 @@
+html,body
+{
+    background:url('http://www.wallpaperup.com/uploads/wallpapers/2012/09/16/15073/763a42a889a803701db274188a6fcef9.jpg') no-repeat no-repeat fixed;
+    text-align: center;
+    color: white;
+    height: 100%;
+    margin: 0; padding: 0;
+}
+body {
+    display : table;
+    width: 100%;
+}
+footer {
+    display : table-row;
+    height: 100px; /* à titre d'exemple */
+    text-align: center;
+}
